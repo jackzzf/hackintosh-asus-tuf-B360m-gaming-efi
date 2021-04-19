@@ -1,8 +1,11 @@
 # Hackintosh-EFI
-Hackintosh EFI File for ASUS  B360M TUF GAMING 
+
+This is an EFI file for Asus TUF B360m Gaming.(Use OpenCore 0.6.8)
+
+Hackintosh EFI File for ASUS TUF B360M GAMING 
 
 # Setup
-- MB: ASUS B360M TUF GAMING
+- MB: ASUS TUF B360M GAMING
 - CPU: i7 8700
 - GPU: NVIDIA GTX 960 2G
 
