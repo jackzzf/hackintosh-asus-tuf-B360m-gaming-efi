@@ -32,3 +32,4 @@ Run: https://github.com/secretandanon/Hackintosh-EFI/blob/main/EFI.zip
 # End
 - ShowPicker -> false
 - boot-args -> delete "-v"
+- AppleDebug -> false
