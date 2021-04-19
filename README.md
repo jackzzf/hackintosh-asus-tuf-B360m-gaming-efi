@@ -33,3 +33,4 @@ Run: https://github.com/secretandanon/Hackintosh-EFI/blob/main/EFI.zip
 - ShowPicker -> false
 - boot-args -> delete "-v"
 - AppleDebug -> false
+- ScanPolicy -> 17760515
