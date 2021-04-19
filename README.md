@@ -18,11 +18,13 @@ Press F2 or Del
 8. XHCI Hand-off -> Enabled
 9. Fast Boot -> Disabled
 10. Boot -> Secure Boot -> Key Management -> Clear Secure Boot Keys
+11. iGPU Monitor -> Enabled
 
 # EFI File
 https://github.com/secretandanon/Hackintosh-EFI/blob/main/EFI.zip
 
 # USB
-请注意使用时将config.plist 中的USBMAP驱动关闭，且将usbinjectall打开
-然后根据https://dortania.github.io/OpenCore-Post-Install/usb/intel-mapping/intel.html 文档中的来制作自己的USBMAP
+
+根据https://dortania.github.io/OpenCore-Post-Install/usb/intel-mapping/intel.html 文档中的来制作自己的USBMAP
 最后请关闭ShowPicker，这样就不显示启动菜单了！
+关闭boot-args中的-v
