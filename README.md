@@ -27,5 +27,7 @@ https://github.com/secretandanon/Hackintosh-EFI/blob/main/EFI.zip
 # USB
 
 根据https://dortania.github.io/OpenCore-Post-Install/usb/intel-mapping/intel.html 文档中的来制作自己的USBMAP
-最后请关闭ShowPicker，这样就不显示启动菜单了！
-关闭boot-args中的-v
+
+# 最后
+- 关闭ShowPicker（这样就不显示启动菜单了）
+- 关闭boot-args中的-v
