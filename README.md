@@ -24,9 +24,8 @@ Press F2 or Del
 11. iGPU Monitor -> Enabled
 
 # EFI File
-Install: https://github.com/secretandanon/Hackintosh-EFI/blob/main/EFI-Install.zip
 
-Run: https://github.com/secretandanon/Hackintosh-EFI/blob/main/EFI.zip
+- https://github.com/secretandanon/Hackintosh-EFI/blob/main/EFI.zip
 
 # USB
 - Please create your own UsbMap file.
