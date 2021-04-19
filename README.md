@@ -21,13 +21,14 @@ Press F2 or Del
 11. iGPU Monitor -> Enabled
 
 # EFI File
-https://github.com/secretandanon/Hackintosh-EFI/blob/main/EFI-Install.zip
+Install: https://github.com/secretandanon/Hackintosh-EFI/blob/main/EFI-Install.zip
 
-https://github.com/secretandanon/Hackintosh-EFI/blob/main/EFI.zip
+Run: https://github.com/secretandanon/Hackintosh-EFI/blob/main/EFI.zip
+
 # USB
+- Please create your own UsbMap file.
+- Reference: https://dortania.github.io/OpenCore-Post-Install/usb/intel-mapping/intel.html
 
-根据https://dortania.github.io/OpenCore-Post-Install/usb/intel-mapping/intel.html 文档中的来制作自己的USBMAP
-
-# 最后
-- 关闭ShowPicker（这样就不显示启动菜单了）
-- 关闭boot-args中的-v
+# End
+- ShowPicker -> false
+- boot-args -> delete "-v"
