@@ -22,6 +22,7 @@ Press F2 or Del
 
 # EFI File
 https://github.com/secretandanon/Hackintosh-EFI/blob/main/EFI-Install.zip
+
 https://github.com/secretandanon/Hackintosh-EFI/blob/main/EFI.zip
 # USB
 
