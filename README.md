@@ -8,7 +8,7 @@ GPU: NVIDIA GTX 960 2G
 
 # BIOS Settings (BIOS Version 2811 x64)
 Press F2 or Del
-1. Load Optimized Defaults;
+1. Load Optimized Defaults
 2. Software Guard Extensions(SGX) -> Disabled
 3. Intel(VMX) Virtualization Technology -> Enabled
 4. Above 4G Decoding -> Enabled
