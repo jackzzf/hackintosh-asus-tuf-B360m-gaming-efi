@@ -6,7 +6,7 @@
 # Setup
 - MB: ASUS TUF B360M GAMING
 - CPU: i7 8700
-- GPU: NVIDIA GTX 960 2G
+- GPU: NO GPU
 
 # BIOS Settings (BIOS Version 2811 x64)
 - Press F2 or Del
