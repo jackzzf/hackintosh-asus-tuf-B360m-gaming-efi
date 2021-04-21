@@ -33,5 +33,4 @@
 # End
 - ShowPicker -> false
 - boot-args -> delete "-v"
-- AppleDebug -> false
 - ScanPolicy -> 17760515
