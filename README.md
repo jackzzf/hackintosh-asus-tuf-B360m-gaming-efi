@@ -21,6 +21,7 @@
 9. Fast Boot -> Disabled
 10. Boot -> Secure Boot -> Key Management -> Clear Secure Boot Keys
 11. iGPU Monitor -> Enabled
+12. CFG -> Disabled
 
 # EFI File
 
