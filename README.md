@@ -10,6 +10,7 @@
 - GPU: NO GPU
 
 # BIOS Settings (BIOS Version 2811 x64)
+- Tips: Please update your BIOS first
 - Press F2 or Del
 1. Load Optimized Defaults
 2. Software Guard Extensions(SGX) -> Disabled
