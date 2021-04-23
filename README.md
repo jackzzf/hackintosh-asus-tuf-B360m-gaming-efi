@@ -2,7 +2,7 @@
 
 - This is an EFI file for Asus TUF B360m Gaming plus.(Use OpenCore 0.6.8)
 - Hackintosh EFI File for ASUS TUF B360M GAMING PLUS
-- Tips: 如果你是Asus TUF B360m Gaming S 则核显修复部分你要自己解决
+- Tips: You need to fix iGPU if your the model of your motherboard is ASUS TUF B360M GAMING PLUS S
 
 # Setup
 - MB: ASUS TUF B360M GAMING PLUS
