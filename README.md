@@ -1,6 +1,6 @@
 # Hackintosh-EFI
 
-- This is an EFI file for Asus TUF B360m Gaming plus.(Use OpenCore 0.6.8)
+- This is an EFI file for Asus TUF B360m Gaming plus.(Use OpenCore 0.6.9)
 - Hackintosh EFI File for ASUS TUF B360M GAMING PLUS
 - Tips: You need to fix iGPU if the model of your motherboard is ASUS TUF B360M GAMING PLUS S
 
