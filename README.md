@@ -37,3 +37,4 @@
 - ShowPicker -> false
 - boot-args -> delete "-v"
 - ScanPolicy -> 17760515
+- Replace USBInjectAll with USBMap
